@@ -1,5 +1,5 @@
 # Voting-Management-System
-this is very fantastic project and it is boost up my java programming language knowledge and skills.
+this is very fantastic project and it is boost up my java programming knowledge and skills.
 
 In this project provide lots of functionality like a :
 1. Check Age is eligible or not if age is not eligible you can't vote any party.
